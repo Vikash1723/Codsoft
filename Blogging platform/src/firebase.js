@@ -4,7 +4,6 @@ import { getDatabase } from "firebase/database";
 //import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyCDziv5T2lwy_1jcHriik2c9hWd1qPcY_s",
 	authDomain: "blogging-platform-4ebc2.firebaseapp.com",
 	databaseURL: "https://blogging-platform-4ebc2-default-rtdb.firebaseio.com",
 	projectId: "blogging-platform-4ebc2",
